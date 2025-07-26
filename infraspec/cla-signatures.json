@@ -7,6 +7,14 @@
       "created_at": "2025-07-24T12:28:59Z",
       "repoId": 923433697,
       "pullRequestNo": 49
+    },
+    {
+      "name": "claude",
+      "id": 81847,
+      "comment_id": 3113289082,
+      "created_at": "2025-07-26T12:28:59Z",
+      "repoId": 923433697,
+      "pullRequestNo": 49
     }
   ]
 }
